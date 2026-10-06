@@ -51,12 +51,4 @@ python -m http.server 8000
 
 ---
 
-## 🌐 Deploy to GitHub Pages
-
-To make this live on your GitHub Pages:
-
-1. In the repository settings on GitHub, navigate to **Settings** → **Pages**.
-2. Under **Build and deployment** → **Source**, select **Deploy from a branch**.
-3. Choose branch: `main` (or `master`) and folder: `/ (root)`.
-4. Click **Save**. Your study app will be live at:
-   `https://JamalFord.github.io/<repo-name>/`
+## 🌐 https://jamalford.github.io/Last-minute-lockin/
