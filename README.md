@@ -1,5 +1,7 @@
 # CSC / DSCI 3780: Fundamentals of Data Science — Midterm Study App & Cheat Sheet
 
+# https://jamalford.github.io/Last-minute-lockin/
+
 **Instructor:** Kiril Kuzmin • **Semester:** Fall 2026 • Georgia State University  
 **Exam Structure:** ~10–12 Problems • **120 Points Total** (Graded out of 100 — you can lose up to 20 points and still receive 100!)  
 **Allowed Materials:** Exactly **ONE handwritten cheat sheet, two-sided**.  
